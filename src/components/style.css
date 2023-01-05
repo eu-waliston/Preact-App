@@ -1,0 +1,29 @@
+.top {
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-size: 45px;
+}
+
+.p2 {
+    text-align: center;
+    position: relative;
+    top: 35px;
+}
+
+.form__style {
+    position: relative;
+    top: 35px;
+    margin-left: 42%;
+}
+
+.form__style input {
+    height: 35px;
+    font-size: 15px;
+}
+.form__style button {
+    height: 43px;
+    margin-left: 5px;
+    text-transform: uppercase;
+    
+}
